@@ -1,0 +1,23 @@
+.header img {
+    height: 337px;
+    width: 97px;
+    margin-left: 5%;
+}
+
+h1 {
+    text-align: center;
+    display: inline;
+    float: right;
+    padding-right: 25%;
+    padding-left: 5%;
+}
+.header {
+    float: left;
+    display: inline;
+    margin-left: 5%;
+}
+form {
+    display:inline!important;
+    width: 100%;
+    margin-left: 2%;
+}
